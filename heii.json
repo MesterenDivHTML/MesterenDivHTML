@@ -1,0 +1,43 @@
+{
+    
+    "squadName": "Mester legende squad",
+      "homeTown": "Mester City",
+      "formed": 2021,
+      "secretBase": "Mester cave",
+      "members": [
+        {
+          "name": "Molecule Woman",
+          "age": 29,
+          "secretIdentity": "Catherine Eliassen Vikre",
+          "powers": [
+            "Radiation resistance",
+            "Shrinking power",
+            "Radiation blast"
+          ]
+        },
+        {
+          "name": "Half Punch Man",
+          "age": 17,
+          "secretIdentity": "Eivind",
+          "powers": [
+            "Million tonne punch",
+            "Damage resistance",
+            "Superhuman reflexes",
+            "Can move particles"
+          ]
+        },
+        {
+          "name": "Mesteren",
+          "age": 1000000,
+          "secretIdentity": "???????",
+          "powers": [
+            "Immortality",
+            "Heat Immunity",
+            "Inferno",
+            "Teleportation",
+            "Interdimensional travel"
+          ]
+        }
+      ]
+    }
+  
